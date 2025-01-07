@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sean Gillen (@Kawsmoe)
 - 👀 I’m interested in data science, data analysis, dashboards & databases
 - 🌱 I’m currently learning Python, SQL, R, PowerBi, Tableau
-- 💞️ I’m looking to collaborate on databases
+- 💞️ I’m looking to collaborate on databases and data projects
 - 📫 How to reach me seangillenjr@yahoo.com
 
 <!---
